@@ -1,0 +1,6 @@
+Filmes#3d#2.0
+Outros#outro#3.0
+Canais#tvi#3.0
+Séries#got#20.0
+Filmes#titanic#4.0
+Filmes#quarto3#67.0
